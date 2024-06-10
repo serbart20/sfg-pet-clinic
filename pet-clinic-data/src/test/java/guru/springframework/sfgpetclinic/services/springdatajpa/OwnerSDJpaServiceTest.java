@@ -24,6 +24,7 @@ import static org.mockito.Mockito.*;
 class OwnerSDJpaServiceTest {
 
     public static final String LAST_NAME = "Smith";
+    
     @Mock
     OwnerRepository ownerRepository;
 
