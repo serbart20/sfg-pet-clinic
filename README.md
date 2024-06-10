@@ -1,4 +1,6 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic.svg?style=svg)](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic)
+<!-- [![CircleCI](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic.svg?style=svg)](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic) -->
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/DXuddxf3eLix6yvUXK5Cp6/S7idahZiLjr3MJkUzehcoi/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/DXuddxf3eLix6yvUXK5Cp6/S7idahZiLjr3MJkUzehcoi/tree/master)
 
 # Spring Framework Guru Pet Clinic
 
