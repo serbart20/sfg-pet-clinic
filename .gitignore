@@ -140,3 +140,4 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+pet-clinic-web/target/.wro4j/buildContext.properties
